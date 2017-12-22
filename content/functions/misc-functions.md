@@ -1,4 +1,4 @@
-### color
+### colors
 
 > Parses a color, so a string representing a color becomes a color.
 
